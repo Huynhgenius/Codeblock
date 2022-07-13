@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653801161 source:/home/vuhuynh/Documents/testbai28/main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653034732 source:/home/vuhuynh/Documents/baitap8/main.cpp
+	<iostream>
+	<math.h>
+

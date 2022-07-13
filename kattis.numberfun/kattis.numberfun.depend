@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654954832 source:/home/vuhuynh/Documents/kattis.numberfun/main.cpp
+	<stdio.h>
+	<cmath>
+

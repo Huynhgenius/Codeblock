@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656051778 source:/home/vuhuynh/Documents/baitap5.3/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

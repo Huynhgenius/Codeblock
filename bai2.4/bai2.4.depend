@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655279803 source:/home/vuhuynh/Documents/bai2.4/main.cpp
+	<stdio.h>
+	<math.h>
+	"Ex02Lib.h"
+
+1655277460 source:/home/vuhuynh/Documents/bai2.4/Ex02Lib.cpp
+	<math.h>
+
+1655274966 /home/vuhuynh/Documents/bai2.4/Ex02Lib.h
+

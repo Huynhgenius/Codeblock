@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656066470 source:/home/vuhuynh/Documents/bai12.3/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+
